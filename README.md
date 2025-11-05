@@ -4,7 +4,7 @@ This is a Flutter-based frontend prototype for viewing and scheduling activities
 I built it as a solo project to reimagine how students could explore facilities, browse sports and fitness programs, and check gym availability from their phone.
 
 ---
-🎮 Explore and [interact with the UI yourself](https://videlles.github.io/flutter-mobile-app-dev-osu-rpac-facility-scheduling-frontend-ui/) in your browser via the webuild
+🎮 Explore and [interact with the UI yourself](https://videlles.github.io/flutter-mobile-app-dev-osu-rpac-facility-scheduling-frontend-ui/) in your browser via the web build
 
 🎥 Pre-recorded mp4 Demo:
 A short demo video of the app and its interface is available on my [LinkedIn](https://www.linkedin.com/posts/videlle-sita_fitness-ohiostateuniversity-osurpac-activity-7046426889741111296-D6o8).
