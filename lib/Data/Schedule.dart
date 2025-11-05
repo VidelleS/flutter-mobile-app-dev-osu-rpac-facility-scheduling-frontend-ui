@@ -1,0 +1,25 @@
+import 'package:rpac_fitness/Data/Category.dart';
+
+class Schedule extends Category {
+
+  Schedule({
+    required String name,
+    required String imgName,
+    required String time,
+    required String room,
+    required String date,
+    required List<bool> isOpen,
+    required List<Schedule> scheduledTimes,
+    required List<Category> subCategories,
+
+  }) :super(
+      name: name,
+      imgName: imgName,
+      time: time,
+      room: room,
+      date: date,
+      isOpen: isOpen,
+      scheduledTimes: scheduledTimes,
+      subCategories: subCategories,
+  );
+}
